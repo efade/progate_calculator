@@ -40,4 +40,8 @@ operators.forEach((operator) => {
 
 equalSign.addEventListener('click', () => {
   console.log('equal button is pressed');
+<<<<<<< HEAD
 });
+=======
+});**
+>>>>>>> 9f2129155c1c7926434aa1e2b4391819eb3701de
